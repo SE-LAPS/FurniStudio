@@ -84,12 +84,6 @@ A powerful web-based furniture visualization application that allows interior de
    - Adjust lighting and shadows
    - Save screenshots
 
-## 📷 Screenshots
-
-![Home Page](screenshots/home.png)
-![2D Editor](screenshots/editor.png)
-![3D Viewer](screenshots/viewer.png)
-
 ## 🧩 Project Structure
 
 ```
@@ -123,7 +117,7 @@ MIT License
 
 ## 👥 Contributors
 
-- [Your Name](https://github.com/yourusername)
+For any inquiries or feedback, reach out to me at [Lahiru Senavirathna](https://bit.ly/Lahiru_Senavirathna).
 
 ---
 
